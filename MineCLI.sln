@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineCLI", "MineCLI.csproj", "{58643B49-BC84-4E32-82CC-DFFF8D114AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58643B49-BC84-4E32-82CC-DFFF8D114AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58643B49-BC84-4E32-82CC-DFFF8D114AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58643B49-BC84-4E32-82CC-DFFF8D114AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58643B49-BC84-4E32-82CC-DFFF8D114AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
