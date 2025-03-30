@@ -5,7 +5,7 @@
 ![MineCLI Logo](https://img.shields.io/badge/MineCLI-A%20Minecraft%20Server%20Management%20Tool-brightgreen?style=for-the-badge&logo=minecraft)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 
 </div>
 
